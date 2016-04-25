@@ -3,10 +3,15 @@
 Classes
 -------------------------------------------
 org.cart.item.Item
+
 org.cart.offer.IOffer (I)
+
 org.cart.offer.ThreeForThePriceOfTwoOranges
+
 org.cart.offer.BuyOneGetOneFreeApples
+
 org.cart.ShoppingCart
+
 org.cart.Shop (main)
 
 org.cart.ShoppingCartTest (Test)
